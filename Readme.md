@@ -1,4 +1,4 @@
-[![Add me on escargot]( )](bobaman@escargot.chat)
+[![Add me on escargot (bobaman@escargot.chat]( )](bobaman@escargot.chat)
 
 f86 emulates an x86-compatible CPU and hardware. Machine code is translated to
 WebAssembly modules at runtime in order to achieve decent performance. Here's a
